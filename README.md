@@ -1,8 +1,6 @@
 # Stress-detection-Maitri
 It a is Stress detection Project which detect the stress level of a person by detecting the emotion of the person using AI/ML and Python.
 
-# Stress_detection_with_CNN
-
 ### Packages need to be installed
 - pip install numpy
 - pip install opencv-python
